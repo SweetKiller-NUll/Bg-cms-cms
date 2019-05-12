@@ -45,10 +45,10 @@ $(function() {
 
     // If Github mode is set, your Github username and repo name. Defaults
     // to Github pages branch (gh-pages)
-    githubUserSettings: {
-      username: 'ingersollms',
-      repo: 'cms.js-themes'
-    }
+//     githubUserSettings: {
+//       username: 'ingersollms',
+//       repo: 'cms.js-themes'
+//     }
 
   });
 
