@@ -12,12 +12,12 @@ $(function() {
     siteEmail: 'your_email@example.com',
 
     // Name
-    siteAuthor: 'CaiCai',
+    siteAuthor: 'ingersollms',
 
     // Navigation items
     siteNavItems: [
       { name: 'About'},
-      { name: 'Github', href: 'https://github.com/hi-caicai', newWindow: false}
+      { name: 'Github', href: 'https://github.com/ingersollms', newWindow: false}
 
     ],
 
@@ -37,7 +37,7 @@ $(function() {
     fadeSpeed: 300,
 
     // Site footer text
-    footerText:'Designed and Coded by CaiCai',
+    footerText:'Designed and Coded by ingersollms',
 
     // Mode 'Github' for Github Pages, 'Apache' for Apache server. Defaults
     // to Github
@@ -46,8 +46,8 @@ $(function() {
     // If Github mode is set, your Github username and repo name. Defaults
     // to Github pages branch (gh-pages)
     githubUserSettings: {
-      username: 'hi-caicai',
-      repo: 'cms.js-themes'
+      username: 'ingersollms',
+      repo: 'BLOGTHEME-C'
     }
 
   });
