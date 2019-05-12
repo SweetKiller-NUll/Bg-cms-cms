@@ -47,7 +47,7 @@ $(function() {
     // to Github pages branch (gh-pages)
     githubUserSettings: {
       username: 'ingersollms',
-      repo: 'BLOGTHEME-C'
+      repo: 'cms.js-themes'
     }
 
   });
